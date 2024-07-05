@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "Siddarthan Natarajan",
-  "reg-no": "212221040154",
+  "homepage": "https://knight7080.github.io/SEC-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
